@@ -1,4 +1,4 @@
-# insurance_travel_company
+# insurance_travel_company_prediction
 
 A análise foi realizada utilizando duas bases de uma empresa de viagens que está tentando saber quais clientes estão mais propícios a comprar o seguro de vida durante a viagem e as bases foram retiradas do www.kaggle.com.
 
